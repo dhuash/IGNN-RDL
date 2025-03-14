@@ -1,1 +1,1 @@
-python main.py --dataset <name>
+python main.py --dataset cora
